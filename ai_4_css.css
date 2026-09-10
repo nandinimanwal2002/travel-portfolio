@@ -182,7 +182,7 @@ textarea {
             rgba(25, 25, 25, 0.35),
             rgba(25, 25, 25, 0.03)
         ),
-        url("swiss bg photo.jpg");
+        url("swissbgphoto.jpg");
 
     background-size: cover;
     background-position: center;
@@ -527,7 +527,7 @@ textarea {
             #b9b6ae 50%,
             #373936
         );
-background-image: url("nyc cover photo.jpg");
+background-image: url("nyccoverphoto.jpg");
 background-size: cover;
     background-position: center;
 }
@@ -541,7 +541,7 @@ background-size: cover;
             #9d9b91,
             #535652
         );
-        background-image: url("paris cover photo.jpg");
+        background-image: url("pariscoverphoto.jpg");
 background-size: cover;
     background-position: center;
     }
@@ -553,7 +553,7 @@ background-size: cover;
             #484a47,
             #aaa69c
         );
-        background-image: url("swiss cover photo.jpg");
+        background-image: url("swisscoverphoto.jpg");
 background-size: cover;
     background-position: center;
     }
